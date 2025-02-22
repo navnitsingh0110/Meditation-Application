@@ -38,10 +38,12 @@ To run this project locally:
     ```bash
 git clone https://github.com/navnitsingh0110/Meditation-Application.git
     ```
+    
 2. **Navigate to the project directory:**
     ```bash
 cd Meditation-Application
     ```
+    
 3. **Open the project:**
   - Use your preferred code editor.
   - Launch a local development server (for example, using the Live Server extension in VS Code).
